@@ -48,7 +48,7 @@ Last year, getting into Zen was one of the best things that happened to me. It i
 ### Go to a Zen Retreat in India ![Progress](http://progressed.io/bar/0)
 I've never been to India, and I really want to go there. I want to learn more about Yoga, meditation and buddhism in general. Also, I want to really get out of my confort zone by traveling alone to a place really far away. 
 
-### Learn Portuguese 
+### Learn Portuguese ![Progress](http://progressed.io/bar/0)
 We're gonna launch in Brazil soon, and I really want to learn the language. The specific tasks I want to achieve are:
 
 - [ ] Reach the highest level on Duo Lingo 
