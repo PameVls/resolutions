@@ -13,8 +13,8 @@ I recently discovered that I really enjoy listening to audiobooks while running.
 I love reading (obviously), but this time, there are some specific topic and title guidelines I'd love to establish. 
 
 Specific titles I really want to read this year
-- [] ![Venture Deals](http://www.beek.io/libros/venture-deals-be-smarter-than-your-lawyer-and-venture-capitalist-8cf84af1-9cf0-48c1-84eb-21ace95a40c2)
-- [] ![Radical Candor](https://www.beek.io/libros/radical-candor)
+- [ ] [Venture Deals](http://www.beek.io/libros/venture-deals-be-smarter-than-your-lawyer-and-venture-capitalist-8cf84af1-9cf0-48c1-84eb-21ace95a40c2)
+- [ ] [Radical Candor](https://www.beek.io/libros/radical-candor)
 
 
 
