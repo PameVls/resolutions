@@ -38,16 +38,25 @@ Specific tasks I'd like to complete for this goal:
 - [ ] Go biking at least 2 times per month  
 
 ### Work on improving my zen practice every week ![Progress](http://progressed.io/bar/0)
-Last year, getting into Zen was one of the best things that happened to me 
+Last year, getting into Zen was one of the best things that happened to me. It increased my level of happiness significantly. To make progress on it this year, I'd like to do any of the following activities at least once a week:
 
-### 1 Trip outside the country ![Progress](http://progressed.io/bar/0)
-I'll keep this simple, just 1 trip, even when last year I traveled 4 times.
+- [ ] Meditate for 20 minutes 
+- [ ] Do Yoga 
+- [ ] Read about Zen
 
-### 2 Drawings ![Progress](http://progressed.io/bar/0)
-Last year I did not any progress here but I'd like to try again.
 
-### Weight 72,5 kg/160 lb
-This one is hard, but this is the year when I want to make more excersice and cook healtier at home. Let's see how it goes. 
- - December 31, 2018: 83.4 kg
+### Go to a Zen Retreat in India ![Progress](http://progressed.io/bar/0)
+I've never been to India, and I really want to go there. I want to learn more about Yoga, meditation and buddhism in general. Also, I want to really get out of my confort zone by traveling alone to a place really far away. 
+
+### Learn Portuguese 
+We're gonna launch in Brazil soon, and I really want to learn the language. The specific tasks I want to achieve are:
+
+- [ ] Reach the highest level on Duo Lingo 
+- [ ] Have at least 3 conversations with brazilian friends to practice 
+
+### Watercoloring ![Progress](http://progressed.io/bar/0)
+Last year I started watercoloring... I LOVE IT! You can see all my paintings [here](http://instagram.com/pamepinta). 
+My goal is to do a watercolor painting at least once a week.
+
 
 [githubui]: https://github.com/gepser?tab=overview&from=2019-01-01&to=2019-12-31
