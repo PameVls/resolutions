@@ -1,16 +1,24 @@
 # 2019 Resolutions
 Just a convenient place to track my new year resolutions.
 
-This are the 2019 resolutions, go [here if you want to take a look at the 2018 resolutions](/archive/resolutions2018.md).
+These are my 2019 resolutions. My goal is to hit 70-80% of them, specially cause I started the year burning my right foot so I can't do many of them until I get better. 
 
-### 1 Tech Product ![Progress](http://progressed.io/bar/0)
-Ok, I'll go with this one for the first time. I want to build a web app, a mobile app or any kind of app.
+### Go to 15 surf trips ![Progress](http://progressed.io/bar/0)
+Last year I surfed once a month, and it was amazing. Surfing gets the best out of me, I want to do it more often, so 15 times is a little more than once a month.    
 
-### 10 Online courses ![Progress](http://progressed.io/bar/0)
-2018 was a great year for learning new things by I couldn't take all the courses I wanted. I'll go for quality instead of quantity this time.
+### Run a 10Km Race ![Progress](http://progressed.io/bar/0)
+I recently discovered that I really enjoy listening to audiobooks while running. Makes running way more pleasant. I've never been able to run more than 6Km because I get bored really fast, so I want to test if training with audiobooks helps me run longer distances. 
 
-### 10 Books ![Progress](http://progressed.io/bar/0)
-On 2018 I read 15 books but I felt like that was a little bit too much. I need more time for other things, so 10 books seems about right.
+### Read 25 Books ![Progress](http://progressed.io/bar/0)
+I love reading (obviously), but this time, there are some specific topic and title guidelines I'd love to establish. 
+
+Specific titles I really want to read this year
+[] ![Venture Deals](http://www.beek.io/libros/venture-deals-be-smarter-than-your-lawyer-and-venture-capitalist-8cf84af1-9cf0-48c1-84eb-21ace95a40c2)
+[] ![Radical Candor](https://www.beek.io/libros/radical-candor)
+
+
+
+
 
 ### 1000 Github contributions ![Progress](http://progressed.io/bar/0)
 This doesn't mean too much but I will track it again just for fun. I didn't make it last year but I did more than 60%, so I'll keep the bar high here. I have plans to contribute more to the Open Source world. And here is [a nice UI][githubui] just to track this.
